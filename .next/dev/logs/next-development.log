@@ -1,0 +1,11 @@
+[00:00:01.120] Server  LOG     ✓ Ready in 716ms
+[00:00:04.565] Server  LOG     ○ Compiling /admin ...
+[00:00:05.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.163] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.317] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/hero-city.jpg" "received" null
+[00:00:29.888] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/hero-city.jpg" "received" null
+[00:00:30.007] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:45.086] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/hero-city.jpg" "received" null
+[00:00:45.301] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:20.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:58.947] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
